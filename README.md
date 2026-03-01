@@ -21,16 +21,8 @@ Android 8.1 ~ 16
 5. Have fun :)
 
 ## Download
+- For stable releases, please go to [Github Releases page](https://github.com/abhiram79/LSPosed-Framework/releases)
 
-- For stable releases, please go to [Github Releases page](https://github.com/JingMatrix/LSPosed/releases)
-- For canary build, please check [Github Actions](https://github.com/JingMatrix/LSPosed/actions/workflows/core.yml?query=branch%3Amaster)
-
-Note: debug builds are only available in Github Actions.
-
-## Get Help
-**Only bug reports from **THE LATEST DEBUG BUILD** will be accepted.**
-- GitHub issues: [Issues](https://github.com/JingMatrix/LSPosed/issues/)
-- (For Chinese speakers) 本项目只接受英语**标题**的issue。如果您不懂英语，请使用[翻译工具](https://www.deepl.com/zh/translator)
 
 ## For Developers
 
@@ -42,13 +34,6 @@ We use our own module repository. We welcome developers to submit modules to our
 
 - [LSPosed Module Repository](https://github.com/Xposed-Modules-Repo)
 
-## Community Discussion
-
-[Troubleshooting guide](https://github.com/JingMatrix/LSPosed/issues/123) and [Disscusions](https://github.com/JingMatrix/LSPosed/discussions).
-
-## Translation Contributing
-
-You can contribute translation [here](https://crowdin.com/project/lsposed_jingmatrix).
 
 ## Credits 
 
